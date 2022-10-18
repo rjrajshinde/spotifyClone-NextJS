@@ -2,7 +2,7 @@ import Center from "../components/Center";
 import Sidebar from "../components/Sidebar";
 import { getSession } from "next-auth/react";
 import { useState } from "react/cjs/react.development";
-
+///king
 export default function Home() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
