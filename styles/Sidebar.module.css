@@ -1,0 +1,5 @@
+
+.sidebarClass::-webkit-scrollbar-track {
+  background-color: #00cc99;
+  border-radius: 50px;
+}
